@@ -1,0 +1,28 @@
+.main-div{
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    border: black solid 2px;
+    border-radius: 10px;
+    margin: 40%;
+    background-color: red;
+}
+.second-div button{
+    background-color: blue;
+    color: white;
+}
+.third-div {
+    background-color: aqua;
+    border: none;
+    border-radius: 10px;
+}
+.second-div{
+     background-color: grey;
+    border: none;
+    border-radius: 10px;
+}
+.first-div{
+     background-color: aqua;
+    border: none;
+    border-radius: 10px;
+}

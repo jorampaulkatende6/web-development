@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <link rel="stylesheet" href="style2.css">
+    <style>
+        body{
+      background-image: url(images7.jpg);
+}
+    </style>
+    
+</head>
+<body>
+<div class="main-div">
+    
+    <div class="first-div">
+        <!--my first-div starts here-->
+        <img src="images4.jpg" width="400px" height="200px" style="border-top-right-radius: 15px; border-top-left-radius: 15px;">
+        <center>
+        <p style="color: pink;"> 4 days ago</p>    
+    <h1>Post One</h1>
+        <br>Lorem ipsum dolor sit amet consectetur,</br>
+       <br> Ducimus, repudiandae temporibus omnis</br>
+        <br>illum maxime quod deserunt eligendi </br>
+        <br>dolor</br>
+     </center>
+     <br>
+    
+      <footer class="footer1">
+        <div class="read">
+            <h3>4<sup>m</sup></h3>
+            <h3>READ<h3>
+
+
+        </div>
+        <div class="views">
+           <h3>5123</h3>
+            <h3>VIEWS<h3>  
+
+        </div>
+        <div class="comments">
+            <h3>32</h3>
+            <h3>COMMENTS</h3> 
+        </div>
+      </footer>
+
+    
+    
+   
+      
+    </div>
+       <!--my first-div ends here-->
+
+      <!--my second-div starts here--> 
+    <div class="second-div">
+        <img src="images4.jpg" width="400" height="200" style="border-top-right-radius: 15px; border-top-left-radius: 15px;">
+        <center>
+       <p style="color: orangered;"> 1 week ago</p>
+        <h1>Post Two</h1>
+    
+        
+        <br>Adipisicing elit. Ducimus, repudiandae</br>
+       <br> corrupti amet temporibus omnis</br>
+        <br>provident illum maxime quod. Lorem</br>
+       <br> ipsum dolor</br>
+       </center>
+       <br>
+    
+      <footer class="footer2">
+        <div class="read">
+            <h3>7<sup>m</sup></h3>
+            <h3>READ<h3>
+
+
+        </div>
+        <div class="views">
+           <h3>7152</h3>
+            <h3>VIEWS</h3>  
+
+        </div>
+        <div class="comments">
+            <h3>21</h3>
+            <h3>COMMENTS</h3> 
+        </div>
+      </footer> 
+     
+     
+    </div>
+    <!--my second-div ends here-->
+ 
+     <!--my third-div starts here-->
+    <div class="third-div">
+        <img src="images3.jpg" width="400" height="200" style="border-top-right-radius: 15px; border-top-left-radius: 15px;">
+      <center>
+       <p style="color: green;"> 3 weeks ago</p>
+       <h1>Post Three</h1>
+    
+    <br>repudiandae corrupti amet temporibus</br>
+    <br>omnis provident illum maxime.</br>
+    <br>Ducimus, lorem ipsum dolor Adipisicing</br>
+    <br>elit</br>
+    </center>
+    <br>
+    
+       <footer class="footer3">
+        <div class="read">
+            <h3>5<sup>m</sup></h3>
+            <h3>READ</h3>
+
+
+        </div>
+        <div class="views">
+           <h3>3021</h3>
+            <h3>VIEWS</h3>  
+
+        </div>
+        <div class="comments">
+            <h3>15</h3>
+            <h3>COMMENTS</h3> 
+        </div>
+      </footer>  
+    
+    
+    </div>
+    
+    <!--my third-div ends here-->
+</div>
+</body>
+</html>
