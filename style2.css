@@ -1,0 +1,94 @@
+
+.main-div {
+ 
+      /* background-color: burlywood; */
+      display: flex;
+      justify-content: space-around;
+      /* padding-top: 5%; */
+      /* padding-bottom: 5%; */
+      /* flex-wrap: wrap; */
+      /* margin: 20%; */
+      padding: 20px;
+}
+      
+       
+.body{
+      /* background-color: rgb(58, 21, 223); */
+}
+
+.footer1 {
+      background: palevioletred;
+      justify-content: space-between;
+      font-size: larger;
+      display: flex;
+      border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+      
+      
+
+      
+      
+}
+.footer2 {
+      background:orangered ;
+      justify-content: space-between;
+      font-size: larger;
+      display: flex;
+      border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+      
+      
+      
+      
+}
+.footer3 {
+      background: green;
+      justify-content: space-between;
+      font-size: larger;
+      display: flex;
+      flex-basis: 25%;
+      border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+      
+      
+
+}
+.first-div {     
+      margin: 5px;
+      flex-basis: 25%;
+      background-color: white;
+      border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+      
+
+}
+.second-div {
+       margin: 5px;
+      flex-basis: 25%;
+       background-color: white;
+       border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+       
+
+
+
+}
+.third-div {
+        margin: 5px;
+        flex-basis: 25%;
+        background-color: white;
+       border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+      
+}
+.views {
+      border: solid 0.5px;
+      text-align: center;
+      
+}
+.comments {
+      text-align: center;
+}
+.read {
+      text-align: center;
+}

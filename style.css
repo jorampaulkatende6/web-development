@@ -1,0 +1,44 @@
+.main-div {
+    display: flex;
+    justify-content: space-between;
+    margin: 5%;
+    border: red solid;
+    background-color: blueviolet;
+    flex-basis: 10%;
+    border-radius: 5%;
+}
+.first-div {
+    margin: 2%;
+    align-items: center;
+    border: none;
+    border-radius: 5%;
+    flex-basis: 10%;
+    padding: 10px;
+    background-color: white;
+    justify-content: center;
+    
+
+
+    
+
+}
+.second-div {
+    margin: 2%;
+    justify-content: center;
+     background-color: white;
+     padding: 10px;
+     border: none;
+     border-radius: 5%;
+     flex-basis: 10%;
+
+    
+}
+.third-div {
+    margin: 2%;
+    justify-content: center;
+     background-color: white;
+     padding: 10px;
+     border: none;
+     border-radius: 5%;
+     flex-basis: 10%;
+}
